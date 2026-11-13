@@ -1,40 +1,28 @@
-# project-template
-This is a GitHub repository template for a reproducible data analysis project using RStudio, R Markdown, Quarto, and GitHub. The structure below gives an example of files for the individual folders. Each folder contains a README.md file with additional information. Thanks to [andreashandel](https://github.com/andreashandel) and others from whom this template is inspired.
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
 
-You can generate a new repository with the same folder structure and files [by following these steps](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+# Characterizing the Reproductive Microbiome of Female Polar Bears
 
-An example for the content of this project template looks like this:
-- R
-    - 00_main.R
-    - 01_cleaning.R
-    - 02_analysis.R
-    - 03_plotting.R
-- data
-    - processed
-        - cleaned_data.csv
-        - processed_data.rds
-    - raw
-        - original_data.csv
-        - spreadsheet_data.xlsx
-- output
-    - figures
-        - 01_figure.png
-        - 02_figure.pdf
-    - tables
-        - 01_table.csv
-        - 02_table.rds
-- products
-    - manuscript
-        - manuscript.docx
-        - manuscript.html
-        - manuscript.pdf
-        - manuscript.qmd
-    - report
-        - report.html
-        - report.qmd
-    - slides
-        - slides.html
-        - slides.qmd
-- .gitignore
-- README.md
-- project-template.Rproj
+![Southeast Greenland polar bear female and cubs, photo by Kristin
+Laidre.](photos/IMG_3231.JPG){width="527"}
+
+This repository contains the code and analysis files for my master\'s
+thesis at the University of Washington School of Aquatic and Fishery
+Sciences. This analysis includes work on the reproductive microbiome of
+female polar bears (*Ursus maritimus*). I use 16S rRNA gene sequencing
+to compare microbial communities in wild bears from Southeast Greenland
+and zoo-housed bears across the United States.
+
+### Repository structure
+
+| Col1 | Col2 |
+|------|------|
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
